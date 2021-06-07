@@ -3,6 +3,7 @@
     "description": "A Kickbox library for Laravel",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Juan Lago",
